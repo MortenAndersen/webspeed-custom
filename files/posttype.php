@@ -10,9 +10,11 @@
 	    	array(
 	    		'labels' => array(
 	    			'name' => __('Custom', 'websepeed-custom-domain'),
-	    			'singular_name' => __('Custom', 'custom-person')
+	    			'singular_name' => __('Custom', 'websepeed-custom-domain')
 	    		),
 	    		'public' => true,
+	    		'publicly_queryable' => false,
+	    		'show_in_nav_menus'          => false,
 	    		'menu_icon' => 'dashicons-info-outline',
 	    		'supports' => array(
 	    			'title',

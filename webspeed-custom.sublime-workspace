@@ -520,34 +520,208 @@
 	"buffers":
 	[
 		{
-			"file": "webspeed-custom.php",
+			"file": "/Users/morten/Sites/localhost/wp/wp-content/plugins/web-acf/felter.txt",
 			"settings":
 			{
-				"buffer_size": 496,
+				"buffer_size": 107,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Unix",
+				"name": "vejnavn"
 			},
 			"undo_stack":
 			[
 				[
 					1,
 					1,
-					"insert",
-					{
-						"characters": "<?php"
-					},
-					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAARQEAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAcAAAAAAAAABwAAAAAAAAANAAAAVGV4dAoyCkh1cyBucg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFAAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA4AAAAAAAAADgAAAAAAAAAGAAAAVGV4dAoz",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFAAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAABwAAAAAAAAAHAAAAAAAAAAIAAAATnVtYmVyCjQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAJAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
 					2,
+					"left_delete",
+					null,
+					"AgAAAA8AAAAAAAAADwAAAAAAAAAGAAAAUG9zdG5yDgAAAAAAAAAOAAAAAAAAAAEAAAAK",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFQAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					2,
+					"left_delete",
+					null,
+					"AgAAABYAAAAAAAAAFgAAAAAAAAACAAAAQnkVAAAAAAAAABUAAAAAAAAAAQAAAAo",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGAAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAABgAAAAAAAAAGAAAAAAAAAAGAAAAVGV4dAo1",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHgAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
 					1,
 					"insert",
 					{
-						"characters": " "
+						"characters": "pris"
 					},
-					"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+					"BQAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAaAAAAAAAAABEAAABQaXJzCnBpcnNOdW1iZXIKNhoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAKgAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB4AAAAAAAAAHgAAAAAAAAAGAAAASHVzIG0yHQAAAAAAAAAdAAAAAAAAAAEAAAAK",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAJAAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"left_delete",
+					null,
+					"AQAAACQAAAAAAAAAJAAAAAAAAAAIAAAATnVtYmVyCjc",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAACUAAAAAAAAAJQAAAAAAAAAIAAAAR3J1bmQgbTI",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"left_delete",
+					null,
+					"AQAAACQAAAAAAAAAJAAAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC0AAAAAAAAALQAAAAAAAAARAAAATnVtYmVyCjgKQnlnZ2XDpXI",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"left_delete",
+					null,
+					"AQAAADUAAAAAAAAANQAAAAAAAAARAAAATnVtYmVyCjkKVGlsc3RhbmQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAANQAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD4AAAAAAAAAPgAAAAAAAAASAAAARmlsZQoxMApHb29nbGUgbWFw",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPgAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEkAAAAAAAAASQAAAAAAAAAZAAAAVGV4dCBBcmVhCjExCk92ZXJza3JpZnQgMQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAASQAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFYAAAAAAAAAVgAAAAAAAAAUAAAAVGV4dAoxMgpPdmVyc2tyaWZ0IDI",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVgAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGMAAAAAAAAAYwAAAAAAAAAqAAAAVGV4dAoxMwpHYWxsZXJpCkVkaXQgRHVwbGljYXRlIE1vdmUgRGVsZXRl",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYwAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "webspeed-custom.php",
+			"redo_stack":
+			[
+				[
+					2,
+					1,
+					"paste",
+					null,
+					"AgAAAA0AAAAAAAAA4AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0AAAB1bC5mcm9udC1saW5r",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAADwvw"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "files/posttype.php",
+			"settings":
+			{
+				"buffer_size": 894,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					13,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD0BAAAAAAAAPQEAAAAAAAAGAAAAY3VzdG9t",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD0BAAAAAAAAQwEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					16,
+					1,
+					"paste",
+					null,
+					"AgAAAD0BAAAAAAAAVAEAAAAAAAAAAAAAVAEAAAAAAABUAQAAAAAAAAcAAAAtcGVyc29u",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEQBAAAAAAAAPQEAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					3,
@@ -556,249 +730,16 @@
 					{
 						"characters": "\n"
 					},
-					"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAHkBAAAAAAAAegEAAAAAAAAAAAAAegEAAAAAAACBAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB5AQAAAAAAAHkBAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					4,
 					1,
 					"paste",
 					null,
-					"AQAAAAcAAAAAAAAA8gEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					15,
-					1,
-					"insert",
-					{
-						"characters": "custom"
-					},
-					"BwAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAhAAAAAAAAAAYAAABwZXJzb24hAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIAAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					20,
-					1,
-					"insert",
-					{
-						"characters": "custom"
-					},
-					"BwAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADDAAAAAAAAAAgAAABwZXJzb25lcsMAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADFAAAAAAAAAAAAAADFAAAAAAAAAMYAAAAAAAAAAAAAAMYAAAAAAAAAxwAAAAAAAAAAAAAAxwAAAAAAAADIAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAwgAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "files/shortcode.php",
-			"settings":
-			{
-				"buffer_size": 7,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "<?php"
-			},
-			"undo_stack":
-			[
-				[
-					1,
-					1,
-					"insert",
-					{
-						"characters": "<?php"
-					},
-					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					2,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "files/posttype.php",
-			"settings":
-			{
-				"buffer_size": 7,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					1,
-					1,
-					"insert",
-					{
-						"characters": "<?php"
-					},
-					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					2,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "files/functions.php",
-			"settings":
-			{
-				"buffer_size": 7,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "<?php"
-			},
-			"undo_stack":
-			[
-				[
-					1,
-					1,
-					"insert",
-					{
-						"characters": "<?php"
-					},
-					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					2,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "files/type.php",
-			"settings":
-			{
-				"buffer_size": 7,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "<?php"
-			},
-			"undo_stack":
-			[
-				[
-					1,
-					1,
-					"insert",
-					{
-						"characters": "<?php"
-					},
-					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					2,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "files/acf.php",
-			"settings":
-			{
-				"buffer_size": 7,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					1,
-					1,
-					"insert",
-					{
-						"characters": "<?php"
-					},
-					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					2,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+					"AQAAAIEBAAAAAAAAnwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACBAQAAAAAAAIEBAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		}
@@ -896,10 +837,19 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/morten/Sites/localhost/wp/wp-content/plugins/weebspeed-custom"
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom",
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom/files",
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom/templates"
 	],
 	"file_history":
 	[
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom/files/type.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom/files/functions.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom/files/posttype.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom/templates/single-custom.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom/files/shortcode.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom/webspeed-custom.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/plugins/webspeed-custom/files/acf.php",
 		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/widgets.php",
 		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/web-functions.php",
 		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/elements.scss",
@@ -1020,14 +970,7 @@
 		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/assets/acf/acf-filer.php",
 		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/page-left-aside.php",
 		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/inc/post-type-ydelse.php",
-		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/inc/person-shortcode.php",
-		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/scss/font.scss",
-		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/inc/template-functions.php",
-		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/inc/banner-shortcode.php",
-		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/scss/module.scss",
-		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/inc/post-type-reference.php",
-		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/single-ydelse.php",
-		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/single-reference.php"
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/simpletheme/inc/person-shortcode.php"
 	],
 	"find":
 	{
@@ -1045,6 +988,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'webspeed-person'"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1068,84 +1012,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "webspeed-custom.php",
-					"selected": true,
+					"file": "/Users/morten/Sites/localhost/wp/wp-content/plugins/web-acf/felter.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 496,
+						"buffer_size": 107,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								473,
-								486
+								99,
+								99
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "files/shortcode.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7,
-								7
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<?php",
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "files/posttype.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7,
-								7
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"auto_name": "vejnavn",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1156,91 +1041,65 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "files/functions.php",
+					"buffer": 1,
+					"file": "webspeed-custom.php",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7,
+						"buffer_size": 438,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7,
-								7
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<?php",
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "files/type.php",
+					"buffer": 2,
+					"file": "files/posttype.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7,
+						"buffer_size": 894,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7,
-								7
+								415,
+								415
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<?php",
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "files/acf.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7,
-								7
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
